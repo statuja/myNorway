@@ -1,0 +1,191 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Mulish", sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: "Quattrocento Sans", sans-serif;
+  font-size: 42px;
+  letter-spacing: 4px;
+  font-weight: bold;
+}
+h2 {
+  font-size: 22px;
+  letter-spacing: 2px;
+}
+.top-navigation {
+  width: 100%;
+  background-color: rgba(253, 249, 249, 1);
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+}
+.top-navigation li {
+  padding: 15px 35px;
+}
+
+.top-navigation li a {
+  color: black;
+  text-decoration: none;
+}
+
+.top-navigation li a:hover {
+  color: #6cb4ee;
+  text-decoration: underline;
+}
+
+.main-picture {
+  min-height: 100vh;
+  width: 100%;
+  background-image: url("./images/mirror-water-nav.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.main {
+  background-image: url("./images/mirror-water-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main h1,
+h2 {
+  color: white;
+  padding-bottom: 30px;
+}
+
+.container {
+  min-height: 80vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 30px 0;
+}
+
+.text p a {
+  color: black;
+}
+
+.text p a:hover {
+  color: #6cb4ee;
+  text-decoration: underline;
+}
+
+.text,
+.picture-about,
+.picture-guide,
+.picture-packing {
+  min-height: 80vh;
+}
+
+.picture-about {
+  width: 55vw;
+  background-image: url("./images/snow-water.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.text {
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  margin: 0 20px;
+}
+
+.text h2 {
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  padding: 15px 40px;
+  color: black;
+}
+
+.text p {
+  padding: 5px;
+  color: black;
+  text-align: center;
+}
+
+.picture-guide {
+  width: 55vw;
+  background-image: url("./images/map.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-left: 15px;
+}
+
+.picture-packing {
+  width: 55vw;
+  background-image: url("./images/atlantic-road.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-items: center;
+
+  padding-left: 5px;
+  padding-right: 25px;
+
+  min-height: 60vh;
+  width: 99%;
+}
+.item {
+  width: 24%;
+  margin: 5px;
+}
+
+.inspiration h2 {
+  width: 99%;
+  display: flex;
+  font-weight: bold;
+  justify-content: center;
+  background-color: white;
+  padding: 20px;
+  color: black;
+  text-align: center;
+}
+
+.footer {
+  background-color: white;
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer ul {
+  display: flex;
+}
+
+.footer ul li a {
+  padding: 5px;
+  margin: 10px;
+  font-size: 20px;
+  color: black;
+}
+
+.footer ul li a:hover {
+  color: #6cb4ee;
+}
