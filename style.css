@@ -17,6 +17,7 @@ h2 {
   font-size: 22px;
   letter-spacing: 2px;
 }
+/* navigation */
 .top-navigation {
   width: 100%;
   background-color: rgba(253, 249, 249, 1);
@@ -37,6 +38,7 @@ h2 {
   color: #6cb4ee;
   text-decoration: underline;
 }
+/* navigation end */
 
 .main-picture {
   min-height: 100vh;
