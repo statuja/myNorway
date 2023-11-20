@@ -14,3 +14,7 @@ To craft this webpage, I used HTML and CSS for the development.
 
 ![inspiration](src/inspiration.png)
 
+## Demo
+
+[Live Demo]([statuja.github.io/my-norway/](https://statuja.github.io/my-norway/)https://statuja.github.io/my-norway/)
+
