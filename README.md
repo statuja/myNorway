@@ -8,12 +8,6 @@ To craft this webpage, I used HTML and CSS for the development.
 
 ![home](src/home.png)
 
-![about](src/about.png)
-
-![guide](src/guide.png)
-
-![inspiration](src/inspiration.png)
-
 ## Demo
 
 [Live Demo](https://statuja.github.io/my-norway/)
