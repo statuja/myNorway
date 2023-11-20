@@ -8,3 +8,7 @@ This personal blog stems from my inspiring journey to Norway, driving the incept
 
 ![about](src/about.png)
 
+![guide](src/guide.png)
+
+![inspiration](src/inspiration.png)
+
