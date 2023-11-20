@@ -4,7 +4,7 @@ myNorway marks my initial foray into web development through the DCI Further Tra
 
 This personal blog stems from my inspiring journey to Norway, driving the inception of this project.
 
-![home](home.png)
+![home](src/home.png)
 
-![about](about.png)
+![about](src/about.png)
 
