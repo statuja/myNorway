@@ -1,4 +1,4 @@
-# myNorway
+# [myNorway](https://statuja.github.io/myNorway_blog/)
 
 myNorway marks my initial foray into web development through the DCI Further Training program as a Web & Software Developer.
 
