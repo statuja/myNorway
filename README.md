@@ -6,9 +6,11 @@ This personal blog stems from my inspiring journey to Norway, driving the incept
 
 To craft this webpage, I used HTML and CSS for the development.
 
-![home](src/home.png)
-
 ## Demo
 
 [Live Demo](https://statuja.github.io/myNorway_blog/)
+
+![home](src/home.png)
+
+
 
